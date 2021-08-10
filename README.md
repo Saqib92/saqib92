@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on JavaScript, TypeScript, React-Native, Ionic-Native
 - 🌱 I’m currently learning PHP(Laravel), NodeJs
 - 👯 I’m looking to collaborate on more Open Source Projects
+- ⚡ Fun fact: Tabs > Spaces
 - 📫 How to reach me najam1992@gmail.com
 
 <br/>
