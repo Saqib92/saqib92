@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on JavaScript, TypeScript, React-Native, Ionic-Native
-👯 I’m looking to collaborate on more Open Source Projects
-
-📫 How to reach me najam1992@gmail.com
+- 🌱 I’m currently learning PHP(Laravel), NodeJs
+- 👯 I’m looking to collaborate on more Open Source Projects
+- 📫 How to reach me najam1992@gmail.com
 
 <br/>
 <br/>
