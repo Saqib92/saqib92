@@ -7,6 +7,8 @@
 - 📫 How to reach me najam1992@gmail.com
 
 <br/>
+![](https://komarev.com/ghpvc/?username=saqib92&label=PROFILE+VIEWS&style=for-the-badge)
+
 <br/>
 <br/>
 
