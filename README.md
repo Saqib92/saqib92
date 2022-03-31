@@ -7,7 +7,7 @@
 - 📫 How to reach me najam1992@gmail.com
 
 <br/>
-![github-profile-views-counter](https://komarev.com/ghpvc/?username=saqib92&label=PROFILE+VIEWS&style=for-the-badge)
+![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=saqib92&label=PROFILE+VIEWS&style=for-the-badge)
 
 <br/>
 <br/>
