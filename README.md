@@ -7,8 +7,6 @@
 - 📫 How to reach me najam1992@gmail.com
 
 <br/>
-![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=saqib92&label=PROFILE+VIEWS&style=for-the-badge)
-
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=saqib92&style=for-the-badge">
 </a>
