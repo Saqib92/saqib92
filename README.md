@@ -17,9 +17,7 @@
 ![](https://hit.yhype.me/github/profile?user_id=7135885)
 
 <br/>
-![](https://visitor-badge.glitch.me/badge?page_id=7135885)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=saqib92&left_color=green&right_color=red)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=saqib92&left_color=green&right_color=red) -->
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saqib92&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
