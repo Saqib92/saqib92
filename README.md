@@ -17,6 +17,8 @@
 ![](https://hit.yhype.me/github/profile?user_id=7135885)
 
 <br/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=saqib92)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=saqib92&left_color=green&right_color=red) -->
 <br/>
 
