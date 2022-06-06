@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on JavaScript, TypeScript, React-Native, Ionic-Native.
+- 🔭 I’m currently working on JavaScript, TypeScript, React-Native, Ionic-Native, VueJs.
 - 🌱 I’m currently learning NodeJs MongoDB.
 - 👯 I’m looking to collaborate on more Open Source Projects.
 - ⚡ Fun fact: Tabs > Spaces.
@@ -17,6 +17,7 @@
 ![](https://hit.yhype.me/github/profile?user_id=7135885)
 
 <br/>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=saqib92)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=saqib92&left_color=green&right_color=red) -->
