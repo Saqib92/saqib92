@@ -29,7 +29,8 @@
 [![Saqib Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=saqib92&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saqib92&theme=tokyonight)](https://git.io/streak-stats)   
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saqib92&theme=tokyonight)](https://git.io/streak-stats)    -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=saqib92&theme=tokyonight)](https://git.io/streak-stats)
 
 <!--
 **saqib92/saqib92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
