@@ -30,7 +30,8 @@
 
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saqib92&theme=tokyonight)](https://git.io/streak-stats)    -->
-[![GitHub Streak](https://github-readme-stats-ruby-one.vercel.app?user=saqib92&theme=halloween)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=saqib92&theme=halloween)](https://git.io/streak-stats)
+https://streak-stats.demolab.com/?user=
 <!--
 **saqib92/saqib92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
