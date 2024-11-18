@@ -23,12 +23,12 @@
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=saqib92&left_color=green&right_color=red) -->
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saqib92&show_icons=true&theme=tokyonight)](https://github.com/saqib92/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saqib92&show_icons=true&theme=tokyonight)](https://github.com/Saqib92/github-readme-stats)
 
+[![Saqib Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saqib92&show_icons=true&theme=tokyonight)](https://github.com/Saqib92/github-readme-stats)
 
-[![Saqib Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=saqib92&show_icons=true&theme=tokyonight)](https://github.com/saqib92/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Saqib92&theme=dark)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=saqib92)](https://git.io/streak-stats)
 
 <!--
 **saqib92/saqib92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
