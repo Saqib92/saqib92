@@ -26,9 +26,7 @@
 [![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=saqib92&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Saqib Khan's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=saqib92&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Saqib Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=saqib92)](https://github.com/saqib92/github-readme-stats)
+[![Saqib Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=saqib92&show_icons=true&theme=tokyonight)](https://github.com/saqib92/github-readme-stats)
 
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saqib92&theme=tokyonight)](https://git.io/streak-stats)    -->
