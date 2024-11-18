@@ -23,7 +23,7 @@
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=saqib92&left_color=green&right_color=red) -->
 <br/>
 
-[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=saqib92&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saqib92&show_icons=true&theme=tokyonight)](https://github.com/saqib92/github-readme-stats)
 
 
 [![Saqib Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=saqib92&show_icons=true&theme=tokyonight)](https://github.com/saqib92/github-readme-stats)
