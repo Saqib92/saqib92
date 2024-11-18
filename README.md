@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on JavaScript, TypeScript, React-Native, Ionic-Native, VueJs.
+- 🔭 I’m currently working on JavaScript, TypeScript, React-Native, Ionic + Capacitor, VueJs.
 - 🌱 I’m currently learning NodeJs MongoDB.
 - 👯 I’m looking to collaborate on more Open Source Projects.
 - ⚡ Fun fact: Tabs > Spaces.
@@ -27,6 +27,8 @@
 
 
 [![Saqib Khan's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=saqib92&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Saqib Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=saqib92)](https://github.com/saqib92/github-readme-stats)
 
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saqib92&theme=tokyonight)](https://git.io/streak-stats)    -->
